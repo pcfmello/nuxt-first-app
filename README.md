@@ -1,6 +1,5 @@
-# nuxt-first-app
-
-> My finest Nuxt.js project
+# NUXT FIRST APP
+> My simple Nuxt.js project
 
 ## Build Setup
 
