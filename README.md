@@ -1,11 +1,22 @@
-# STATIC
+# NUXT FIRST APP
+This is a simple project develop with Nuxt.js. It's my first application using this technology.
 
-**This directory is not required, you can delete it if you don't want to use it.**
+It has been developed usinig:
 
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-Thus you'd want to delete this README.md before deploying to production.
+ES6+
+Nuxt v2.4+
 
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
+Install dependencies:
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+$ yarn
+
+Start the server:
+
+$ yarn dev
+
+Then, access localhost:3000.
+
+Project in Production
+This project has been deployed in the Netlify Platform.
+
+For to see it running, access [here](https://fervent-euclid-c11c4c.netlify.com).
