@@ -2,13 +2,14 @@
 This is a simple project develop with Nuxt.js. It's my first application using this technology.
 
 ### It has been developed usinig:
-ES6+
-Nuxt v2.4+
+* ES6+
+* Nuxt v2.4+
 
-### Install dependencies:
+## Local Installation and Usage
+Install dependencies:
 ```$ yarn```
 
-### Start the server:
+Start the server:
 ```$ yarn dev```
 
 Then, access [localhost:3000](http://localhost:3000).
