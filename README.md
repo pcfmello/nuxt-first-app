@@ -16,6 +16,6 @@ Start the server:
 
 Then, access [localhost:3000](http://localhost:3000).
 
-### Project in Production
+## Project in Production
 This project has been deployed in the Netlify Platform.
 For to see it running, access [here](https://fervent-euclid-c11c4c.netlify.com).
